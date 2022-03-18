@@ -21,4 +21,4 @@ rect2.x // 5
 
 ## API
 
-[API docs](https://paka.dev/npm/@zardoy/geometry-demo). Docs are also available in [./docs/](./docs/README.MD)
+[API docs](https://paka.dev/npm/@zardoy/geometry-demo). Docs are also available in [./docs/](./docs/README.md)
