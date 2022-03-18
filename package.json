@@ -1,0 +1,33 @@
+{
+    "name": "@zardoy/geometry-demo",
+    "version": "0.0.0-dev",
+    "description": "Just a demo package. Not for rw usage",
+    "author": "Vitaly Turovsky <vital2580@icloud.com>",
+    "license": "MIT",
+    "type": "module",
+    "scripts": {
+        "test": "vitest --global",
+        "prepublishOnly": "tsc -p tsconfig.build.json",
+        "lint": "eslint src/**",
+        "generate-api": "typedoc --plugin typedoc-plugin-markdown --out docs src/index.ts"
+    },
+    "devDependencies": {
+        "@vitest/ui": "^0.7.4",
+        "@zardoy/tsconfig": "^1.4.0",
+        "eslint": "^8.11.0",
+        "eslint-config-zardoy": "^0.2.10",
+        "typedoc": "^0.22.13",
+        "typedoc-plugin-markdown": "^3.11.14",
+        "typescript": "^4.6.2",
+        "vitest": "^0.7.4"
+    },
+    "prettier": {
+        "semi": false,
+        "singleQuote": true,
+        "proseWrap": "never",
+        "tabWidth": 4,
+        "trailingComma": "all",
+        "arrowParens": "avoid",
+        "printWidth": 150
+    }
+}
