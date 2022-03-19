@@ -41,7 +41,7 @@
 
 #### Defined in
 
-oop/rectangular.ts:15
+[oop/rectangular.ts:15](https://github.com/zardoy/geometry-lib-demo/blob/673dbf4/src/oop/rectangular.ts#L15)
 
 ## Properties
 
@@ -55,7 +55,7 @@ oop/rectangular.ts:15
 
 #### Defined in
 
-oop/rectangular.ts:13
+[oop/rectangular.ts:13](https://github.com/zardoy/geometry-lib-demo/blob/673dbf4/src/oop/rectangular.ts#L13)
 
 ___
 
@@ -69,7 +69,7 @@ ___
 
 #### Defined in
 
-oop/rectangular.ts:12
+[oop/rectangular.ts:12](https://github.com/zardoy/geometry-lib-demo/blob/673dbf4/src/oop/rectangular.ts#L12)
 
 ___
 
@@ -83,7 +83,7 @@ ___
 
 #### Defined in
 
-oop/rectangular.ts:10
+[oop/rectangular.ts:10](https://github.com/zardoy/geometry-lib-demo/blob/673dbf4/src/oop/rectangular.ts#L10)
 
 ___
 
@@ -97,7 +97,7 @@ ___
 
 #### Defined in
 
-oop/rectangular.ts:11
+[oop/rectangular.ts:11](https://github.com/zardoy/geometry-lib-demo/blob/673dbf4/src/oop/rectangular.ts#L11)
 
 ## Methods
 
@@ -115,7 +115,7 @@ BasicFigure.clone
 
 #### Defined in
 
-oop/rectangular.ts:19
+[oop/rectangular.ts:19](https://github.com/zardoy/geometry-lib-demo/blob/673dbf4/src/oop/rectangular.ts#L19)
 
 ___
 
@@ -129,7 +129,7 @@ ___
 
 #### Defined in
 
-oop/rectangular.ts:32
+[oop/rectangular.ts:32](https://github.com/zardoy/geometry-lib-demo/blob/673dbf4/src/oop/rectangular.ts#L32)
 
 ___
 
@@ -143,7 +143,7 @@ ___
 
 #### Defined in
 
-oop/rectangular.ts:36
+[oop/rectangular.ts:36](https://github.com/zardoy/geometry-lib-demo/blob/673dbf4/src/oop/rectangular.ts#L36)
 
 ___
 
@@ -167,4 +167,4 @@ BasicFigure.isEquals
 
 #### Defined in
 
-oop/rectangular.ts:23
+[oop/rectangular.ts:23](https://github.com/zardoy/geometry-lib-demo/blob/673dbf4/src/oop/rectangular.ts#L23)

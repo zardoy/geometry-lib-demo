@@ -28,7 +28,7 @@
 
 #### Defined in
 
-oop/circle.ts:5
+[oop/circle.ts:5](https://github.com/zardoy/geometry-lib-demo/blob/673dbf4/src/oop/circle.ts#L5)
 
 ___
 
@@ -42,7 +42,7 @@ Coordinate.x
 
 #### Defined in
 
-oop/coordinate.ts:2
+[oop/coordinate.ts:2](https://github.com/zardoy/geometry-lib-demo/blob/673dbf4/src/oop/coordinate.ts#L2)
 
 ___
 
@@ -56,4 +56,4 @@ Coordinate.y
 
 #### Defined in
 
-oop/coordinate.ts:3
+[oop/coordinate.ts:3](https://github.com/zardoy/geometry-lib-demo/blob/673dbf4/src/oop/coordinate.ts#L3)

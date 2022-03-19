@@ -46,7 +46,7 @@
 
 #### Defined in
 
-oop/circle.ts:9
+[oop/circle.ts:9](https://github.com/zardoy/geometry-lib-demo/blob/673dbf4/src/oop/circle.ts#L9)
 
 ## Properties
 
@@ -90,7 +90,7 @@ ___
 
 #### Defined in
 
-oop/circle.ts:27
+[oop/circle.ts:27](https://github.com/zardoy/geometry-lib-demo/blob/673dbf4/src/oop/circle.ts#L27)
 
 • `set` **diameter**(`newValue`): `void`
 
@@ -106,7 +106,7 @@ oop/circle.ts:27
 
 #### Defined in
 
-oop/circle.ts:31
+[oop/circle.ts:31](https://github.com/zardoy/geometry-lib-demo/blob/673dbf4/src/oop/circle.ts#L31)
 
 ## Methods
 
@@ -124,7 +124,7 @@ BasicFigure.clone
 
 #### Defined in
 
-oop/circle.ts:11
+[oop/circle.ts:11](https://github.com/zardoy/geometry-lib-demo/blob/673dbf4/src/oop/circle.ts#L11)
 
 ___
 
@@ -138,7 +138,7 @@ ___
 
 #### Defined in
 
-oop/circle.ts:23
+[oop/circle.ts:23](https://github.com/zardoy/geometry-lib-demo/blob/673dbf4/src/oop/circle.ts#L23)
 
 ___
 
@@ -152,7 +152,7 @@ ___
 
 #### Defined in
 
-oop/circle.ts:19
+[oop/circle.ts:19](https://github.com/zardoy/geometry-lib-demo/blob/673dbf4/src/oop/circle.ts#L19)
 
 ___
 
@@ -176,4 +176,4 @@ BasicFigure.isEquals
 
 #### Defined in
 
-oop/circle.ts:15
+[oop/circle.ts:15](https://github.com/zardoy/geometry-lib-demo/blob/673dbf4/src/oop/circle.ts#L15)
