@@ -7,17 +7,10 @@ export interface CoordinateWithSize extends Coordinate {
 }
 
 export class Rectangular implements CoordinateWithSize, BasicFigure<Rectangular> {
-    x!: number
-    y!: number
-    width!: number
-    height!: number
-
-    constructor(params: CoordinateWithSize) {
-        Object.assign(this, params)
-    }
+    constructor(public x: number, public y: number, public width: number, public height: number) {}
 
     clone() {
-        return new Rectangular(this)
+        return new Rectangular(this.x, this.y, this.width, this.height)
     }
 
     isEquals(figureToCompare: Rectangular): boolean {

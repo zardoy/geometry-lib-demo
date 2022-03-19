@@ -1,7 +1,7 @@
 import { Rectangular } from './rectangular'
 
 test('clone', () => {
-    const rect1 = new Rectangular({ x: 0, y: 0, width: 100, height: 100 })
+    const rect1 = new Rectangular(0, 0, 100, 100)
     rect1.x = 5
     const rect2 = rect1.clone()
     rect1.x = 0
