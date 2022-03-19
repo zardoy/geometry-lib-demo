@@ -2,6 +2,10 @@
 
 # Class: Triangle
 
+## Implements
+
+- `BasicFigure`<[`Triangle`](Triangle.md)\>
+
 ## Table of contents
 
 ### Constructors
@@ -14,7 +18,9 @@
 
 ### Methods
 
+- [clone](Triangle.md#clone)
 - [getArea](Triangle.md#getarea)
+- [isEquals](Triangle.md#isequals)
 
 ## Constructors
 
@@ -30,7 +36,7 @@
 
 #### Defined in
 
-oop/triangle.ts:6
+[oop/triangle.ts:7](https://github.com/zardoy/geometry-lib-demo/blob/673dbf4/src/oop/triangle.ts#L7)
 
 ## Properties
 
@@ -39,6 +45,24 @@ oop/triangle.ts:6
 • **points**: [`TrianglePoints`](../modules.md#trianglepoints)
 
 ## Methods
+
+### clone
+
+▸ **clone**(): [`Triangle`](Triangle.md)
+
+#### Returns
+
+[`Triangle`](Triangle.md)
+
+#### Implementation of
+
+BasicFigure.clone
+
+#### Defined in
+
+[oop/triangle.ts:9](https://github.com/zardoy/geometry-lib-demo/blob/673dbf4/src/oop/triangle.ts#L9)
+
+___
 
 ### getArea
 
@@ -50,4 +74,28 @@ oop/triangle.ts:6
 
 #### Defined in
 
-oop/triangle.ts:8
+[oop/triangle.ts:18](https://github.com/zardoy/geometry-lib-demo/blob/673dbf4/src/oop/triangle.ts#L18)
+
+___
+
+### isEquals
+
+▸ **isEquals**(`figureToCompare`): `boolean`
+
+#### Parameters
+
+| Name | Type |
+| :------ | :------ |
+| `figureToCompare` | [`Triangle`](Triangle.md) |
+
+#### Returns
+
+`boolean`
+
+#### Implementation of
+
+BasicFigure.isEquals
+
+#### Defined in
+
+[oop/triangle.ts:13](https://github.com/zardoy/geometry-lib-demo/blob/673dbf4/src/oop/triangle.ts#L13)
