@@ -31,17 +31,20 @@
 
 ### constructor
 
-• **new Rectangular**(`params`)
+• **new Rectangular**(`x`, `y`, `width`, `height`)
 
 #### Parameters
 
 | Name | Type |
 | :------ | :------ |
-| `params` | [`CoordinateWithSize`](../interfaces/CoordinateWithSize.md) |
+| `x` | `number` |
+| `y` | `number` |
+| `width` | `number` |
+| `height` | `number` |
 
 #### Defined in
 
-[oop/rectangular.ts:15](https://github.com/zardoy/geometry-lib-demo/blob/673dbf4/src/oop/rectangular.ts#L15)
+[oop/rectangular.ts:10](https://github.com/zardoy/geometry-lib-demo/blob/8cf7cf7/src/oop/rectangular.ts#L10)
 
 ## Properties
 
@@ -53,10 +56,6 @@
 
 [CoordinateWithSize](../interfaces/CoordinateWithSize.md).[height](../interfaces/CoordinateWithSize.md#height)
 
-#### Defined in
-
-[oop/rectangular.ts:13](https://github.com/zardoy/geometry-lib-demo/blob/673dbf4/src/oop/rectangular.ts#L13)
-
 ___
 
 ### width
@@ -66,10 +65,6 @@ ___
 #### Implementation of
 
 [CoordinateWithSize](../interfaces/CoordinateWithSize.md).[width](../interfaces/CoordinateWithSize.md#width)
-
-#### Defined in
-
-[oop/rectangular.ts:12](https://github.com/zardoy/geometry-lib-demo/blob/673dbf4/src/oop/rectangular.ts#L12)
 
 ___
 
@@ -81,10 +76,6 @@ ___
 
 [CoordinateWithSize](../interfaces/CoordinateWithSize.md).[x](../interfaces/CoordinateWithSize.md#x)
 
-#### Defined in
-
-[oop/rectangular.ts:10](https://github.com/zardoy/geometry-lib-demo/blob/673dbf4/src/oop/rectangular.ts#L10)
-
 ___
 
 ### y
@@ -94,10 +85,6 @@ ___
 #### Implementation of
 
 [CoordinateWithSize](../interfaces/CoordinateWithSize.md).[y](../interfaces/CoordinateWithSize.md#y)
-
-#### Defined in
-
-[oop/rectangular.ts:11](https://github.com/zardoy/geometry-lib-demo/blob/673dbf4/src/oop/rectangular.ts#L11)
 
 ## Methods
 
@@ -115,7 +102,7 @@ BasicFigure.clone
 
 #### Defined in
 
-[oop/rectangular.ts:19](https://github.com/zardoy/geometry-lib-demo/blob/673dbf4/src/oop/rectangular.ts#L19)
+[oop/rectangular.ts:12](https://github.com/zardoy/geometry-lib-demo/blob/8cf7cf7/src/oop/rectangular.ts#L12)
 
 ___
 
@@ -129,7 +116,7 @@ ___
 
 #### Defined in
 
-[oop/rectangular.ts:32](https://github.com/zardoy/geometry-lib-demo/blob/673dbf4/src/oop/rectangular.ts#L32)
+[oop/rectangular.ts:25](https://github.com/zardoy/geometry-lib-demo/blob/8cf7cf7/src/oop/rectangular.ts#L25)
 
 ___
 
@@ -143,7 +130,7 @@ ___
 
 #### Defined in
 
-[oop/rectangular.ts:36](https://github.com/zardoy/geometry-lib-demo/blob/673dbf4/src/oop/rectangular.ts#L36)
+[oop/rectangular.ts:29](https://github.com/zardoy/geometry-lib-demo/blob/8cf7cf7/src/oop/rectangular.ts#L29)
 
 ___
 
@@ -167,4 +154,4 @@ BasicFigure.isEquals
 
 #### Defined in
 
-[oop/rectangular.ts:23](https://github.com/zardoy/geometry-lib-demo/blob/673dbf4/src/oop/rectangular.ts#L23)
+[oop/rectangular.ts:16](https://github.com/zardoy/geometry-lib-demo/blob/8cf7cf7/src/oop/rectangular.ts#L16)
