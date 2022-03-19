@@ -2,7 +2,7 @@
 
 Simple geometry library for **2D** context. Every figure has its own coordinates.
 
-The package is available as ESM module on npm.
+The package is available as ESM module (bundle is required) on npm.
 
 ## Usage
 
